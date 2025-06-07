@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miniquiz3_10122432_HadayaFikriNurAqillah</string>
+    <string name="judul">Body Fat Percentage Calculator</string>
+    <string name="nim">NIM 10122432</string>
+    <string name="nama">Hadaya Fikri Nur Aqillah</string>
+    <string name="hitung">Hitung Body Fat Percentage</string>
+    <string name="hint">Berat Badan (kg)</string>
+    <string name="hint1">Tinggi Badan (cm)</string>
+    <string name="hint2">Usia (tahun)</string>
+    <string name="kelaminl">Laki Laki</string>
+    <string name="kelaminp">Perempuan</string>
+</resources>
